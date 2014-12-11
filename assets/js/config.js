@@ -1,25 +1,25 @@
 window.techno.config = { 
 	
-		logo: '[YOUR LOGO]',
+		logo: 'http://www.gravatar.com/avatar/1aa315e981dd1bc800ee70a0757ab0d5.png',
 		author: {			
 				social: [
 					{ 
-						href: 'https://github.com/[YOUR ACCOUNT]',
+						href: 'https://github.com/ningsuhen',
 					  icon: 'fa-github',
 						title: 'Github'
 					},
 					{ 
-						href: 'https://twitter.com/[YOUR ACCOUNT]',
+						href: 'https://twitter.com/ningsuhen',
 					  icon: 'fa-twitter',
 						title: 'Twitter'
 					},
 					{ 
-						href: 'https://linkedin.com/[YOUR ACCOUNT]',
+						href: 'https://in.linkedin.com/in/ningsuhen',
 					  icon: 'fa-linkedin',
 						title: 'LinkedIn'
 					},
 					{ 
-						href: 'mailto:[YOUR EMAIL]',
+						href: 'mailto:ningsuhen@waikhom.com',
 					  icon: 'fa-envelope',
 						title: 'Email'
 					},
@@ -31,7 +31,7 @@ window.techno.config = {
 				]
 		},
 		disqus: {
-				shortname: '[YOUR DISQUS SHORTNAME]'
+				shortname: 'ningsuhen'
 		},
 		google: {
 				analytics: function(ga) {
